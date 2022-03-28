@@ -1,7 +1,4 @@
 a:hover{color:green}
-a {
-  color: red;
-}
 body{
     display: flex;
     flex-direction:column 
